@@ -8,7 +8,7 @@ namespace Project01
         {
 
 
-            #region Write a program that allows the user to enter a number then print it.
+            #region 1- Write a program that allows the user to enter a number then print it.
 
             //Console.WriteLine("Enter Number");
 
@@ -26,7 +26,7 @@ namespace Project01
             #endregion
 
 
-            #region Write C# program that converts a string to an integer, but the string contains non-numeric characters. And mention what will happen 
+            #region 2- Write C# program that converts a string to an integer, but the string contains non-numeric characters. And mention what will happen 
 
             //string s = "Khaled";
 
@@ -47,7 +47,7 @@ namespace Project01
             #endregion
 
 
-            #region  Write C# program that Perform a simple arithmetic operation with floating-point numbers And mention what will happen
+            #region 3- Write C# program that Perform a simple arithmetic operation with floating-point numbers And mention what will happen
 
             //float num1 = 5.4f;
             //float num2 = 50.4f;
@@ -70,7 +70,7 @@ namespace Project01
             #endregion
 
 
-            #region Write C# program that Extract a substring from a given string.
+            #region 4- Write C# program that Extract a substring from a given string.
 
             //Console.WriteLine("Enter Any String");
             //string text = Console.ReadLine();
@@ -93,7 +93,7 @@ namespace Project01
 
 
 
-            #region Write C# program that Assigning one value type variable to another and modifying the value of one variable and mention what will happen
+            #region 5- Write C# program that Assigning one value type variable to another and modifying the value of one variable and mention what will happen
 
             //int num1 = 5; 
             //int num2 = 10;
@@ -109,7 +109,7 @@ namespace Project01
 
 
 
-            #region Write C# program that Assigning one reference type variable to another and modifying the object through one variable and mention what will happen
+            #region 6- Write C# program that Assigning one reference type variable to another and modifying the object through one variable and mention what will happen
 
             //Point p1 = new Point(1,1);
 
@@ -137,7 +137,7 @@ namespace Project01
 
 
 
-            #region Write C# program that take two string variables and print them as one variable 
+            #region 7-  Write C# program that take two string variables and print them as one variable 
 
 
             //Console.WriteLine("Enter First String");
@@ -153,7 +153,7 @@ namespace Project01
 
 
 
-            #region Which of the following statements is correct about the C#.NET code snippet given below?
+            #region 8-  Which of the following statements is correct about the C#.NET code snippet given below?
 
             //int d;
             //d = Convert.ToInt32(!(30 < 20));
@@ -165,7 +165,7 @@ namespace Project01
             #endregion
 
 
-            #region Which of the following is the correct output for the C# code given below?
+            #region 9- Which of the following is the correct output for the C# code given below?
 
 
             //Console.WriteLine(13 / 2 + " " + 13 % 2);
@@ -175,8 +175,8 @@ namespace Project01
 
 
 
-            #region 
-            
+            #region 10 - What will be the output of the C# code given below?
+
             //int num = 1, z = 5;
 
 
